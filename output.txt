@@ -1,0 +1,10 @@
+8 is the 1 number in ascending order
+609 is the 15 number in ascending order
+174 is the 3 number in ascending order
+65 was not found in file
+166 is the 3 number in ascending order
+333 is the 6 number in ascending order
+896 is the 18 number in ascending order
+12 is the 1 number in ascending order
+371 is the 8 number in ascending order
+100 is the 3 number in ascending order
